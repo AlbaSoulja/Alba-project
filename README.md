@@ -1,13 +1,13 @@
-# myproject
+# Salads Wacky Mod
 New mod and modding scene behind Their Finest Gents mod
-TODO list salad
 
-TEMPLATE /SVF.Salad.pdf 
-C:\Users\YVR\Documents\Freetime/BS/SVF
-https://github.com/RoachySalad/myproject
+Patch 1.01
 
-Learn to code
+Submod created
 
-Mod starters:
-2 tiles egypt.
-Reform Tanks
+Merged No-Pause Mod TFB into Submod
+Implemented where could, Yato's Updates
+Extra tile El-Alamein -> 2 tile Coridor
+SAF, State Cape, 3+ Dockyards
+Transport ship, 5 -> 10 Naval Capacity
+Landing Craft 10 -> 30 Naval Capacity
