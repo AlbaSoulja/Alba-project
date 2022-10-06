@@ -96,6 +96,9 @@
  japan.503.a_desc:0 "Will declare on the USA and Phillipines through the §YStrike the West§! focus and will gain §YTora Tora Tora§! for 6 months"
  japan.503.b:0 "Leave them out"
  japan.503.b_desc:0 "We will not declare on USA through §YStrike the West§! focus"
+ japan.504.t:0 "I don't feel so good"
+ japan.504.d:0 "After multiple testbuilds and a two year time ticking event, our incompentece has gotten the better of us."
+ japan.504.a:0 "The risk I took was calculated, but man am I bad at math."
  ### IDEAS ###
  MAN_JAP_advisors:0 "Japanese Advisors"
  tojo:0 "Ruthless Administrator"
@@ -188,6 +191,7 @@
  asw_training: "ASW Training"
  osaka_artillery_arsenal:0 "Osaka Artillery Arsenal"
  #### DECISIONS ####
+ JAP_go_to_war_with_china:0 "War with China"
  CHI_yellow_river_flood:0 "Flood the Yellow River"
  CHI_yellow_river_flood_recede:0 "Flood Receding"
  SOV_border_war_warning_JAP:0 "Soviet Provocation"
