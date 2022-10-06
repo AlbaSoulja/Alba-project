@@ -55,6 +55,45 @@ JAP_intervene_in_china = {
 			activate_mission = JAP_china_step_up_war_effort
 		}
 	}
+}
+political_actions = {
+
+	JAP_go_to_war_with_china = {
+		priority = 100
+		allowed = { tag = JAP }
+
+		icon = jap_conquer_china
+
+		available = {
+			hidden_trigger = { always = no }
+		}
+
+		days_mission_timeout = 731
+		is_good = no
+		fire_only_once = yes
+
+		cancel_trigger = {
+			has_war_with = CHI
+		}
+
+		visible = {
+			always = yes
+		}
+
+		activation = {
+			date > 1936.1.1
+		}
+		
+		timeout_effect = {
+			add_war_support = -0.20
+			add_stability =  -0.20
+			JAP = {country_event = { id = japan.504 }}
+			declare_war_on = {
+			target = CHI
+			type = annex_everything
+			
+		}
+	}
 
 	JAP_ichi_go = {
 
